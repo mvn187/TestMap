@@ -406,15 +406,15 @@
                  "x":48,
                  "y":0
                 }],
-         "height":32,
+         "height":16,
          "id":12,
          "name":"St\u00fchle",
          "opacity":1,
-         "startx":16,
+         "startx":32,
          "starty":0,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -980,11 +980,11 @@
          "id":6,
          "name":"Fenster Eingang",
          "opacity":0.72,
-         "startx":0,
+         "startx":16,
          "starty":0,
          "type":"tilelayer",
          "visible":true,
-         "width":64,
+         "width":48,
          "x":0,
          "y":0
         }, 
@@ -1614,19 +1614,6 @@
         {
          "firstgid":2842,
          "source":"..\/..\/Eigene Assets\/Halle17.tsx"
-        }, 
-        {
-         "columns":10,
-         "firstgid":2843,
-         "image":"..\/..\/Eigene Assets\/interior free\/interior free.png",
-         "imageheight":80,
-         "imagewidth":160,
-         "margin":0,
-         "name":"interior free",
-         "spacing":0,
-         "tilecount":50,
-         "tileheight":16,
-         "tilewidth":16
         }],
  "tilewidth":32,
  "type":"map",
